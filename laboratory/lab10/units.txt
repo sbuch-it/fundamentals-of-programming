@@ -1,0 +1,6 @@
+miglia mi distanza 1609.3
+kilometri km distanza 1000
+metri m distanza 1
+kilogrammi kg peso 1000
+grammi g peso 1
+pounds lb peso 0.43592
