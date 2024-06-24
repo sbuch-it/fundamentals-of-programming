@@ -1,0 +1,8 @@
+gcc main.c MyFunction.c -o test
+
+OR
+
+gcc -c main.c
+gcc -c MyFunction.c
+gcc main.o MyFunction.o -o test
+

@@ -1,0 +1,4 @@
+singola 50.00 1 0
+doppia 70.50 1 2
+tripla 130.30 0 1
+quadrupla 155.00 1 4
